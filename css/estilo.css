@@ -1,0 +1,56 @@
+header{
+    background: aqua;
+    height: 60px;
+    color: black;
+    padding: 0 10px;
+    border-radius: 10px;
+}
+.esquerda{
+    float: left;
+}
+
+.direita{
+    float: right;
+}
+img {
+    max-width: 100%;
+}
+aside{    
+    background: gray;
+    height: 795px;
+    width: 20%;
+    float: left;
+    border-radius: 10px;
+    padding: 5px;
+}
+main{
+    background: aqua;
+    height: 800px;
+    width: 76%;
+    float: right;
+    border-radius: 10px;
+    margin: 5px 0;
+    padding: 10px 20px 0px 10px;
+
+}
+section{
+    border: 2px dotted white;
+    min-height: 100 px;
+    width: 100%;
+    margin: 5px 0;
+    padding: 2px;
+    
+}
+footer{
+    background: gray;
+    height: 55px;
+    text-align: center;
+    border-radius: 10px;
+    clear: both;
+}
+body{
+    font-family: "Times new Roman", "Times", "serif";
+}
+header, nav, main{
+    margin-bottom: 10px;
+}
