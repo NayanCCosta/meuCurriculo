@@ -1,5 +1,5 @@
 header{
-    background: aqua;
+    background: gray;
     height: 60px;
     color: black;
     padding: 0 10px;
@@ -16,7 +16,7 @@ img {
     max-width: 100%;
 }
 aside{    
-    background: gray;
+    background: purple;
     height: 795px;
     width: 20%;
     float: left;
@@ -24,9 +24,9 @@ aside{
     padding: 5px;
 }
 main{
-    background: aqua;
+    background: gray;
     height: 800px;
-    width: 76%;
+    width: 75%;
     float: right;
     border-radius: 10px;
     margin: 5px 0;
@@ -34,7 +34,7 @@ main{
 
 }
 section{
-    border: 2px dotted white;
+    border: 2px dotted black;
     min-height: 100 px;
     width: 100%;
     margin: 5px 0;
@@ -42,7 +42,7 @@ section{
     
 }
 footer{
-    background: gray;
+    background: purple;
     height: 55px;
     text-align: center;
     border-radius: 10px;
